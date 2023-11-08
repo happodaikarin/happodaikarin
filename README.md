@@ -19,8 +19,8 @@ Soy  estudiante de Ingeniería en Sistemas y programador ocacional
 - **React**
 - **Patrones de Diseño & Arquitectura de Sistemas**
 ### 🚀 Proyectos
----
----
+- **Python**: https://github.com/happodaikarin/PythonFiles
+- **Java**: https://github.com/happodaikarin/JavaFiles
 ### 📫 Cómo alcanzarme:
 - **GitHub**: https://github.com/happodaikarin
 - **LinkedIn**: https://www.linkedin.com/in/rams%C3%A9s-de-jes%C3%BAs-hidalgo-guevara-96637a152/
