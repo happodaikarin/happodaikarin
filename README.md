@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hola, soy [Tu Nombre]! 👋
 
-<!--
-**happodaikarin/happodaikarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+Soy  estudiante de Ingeniería en Sistemas y progrmador ocacional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Educación
+- 📚 **Ingeniería en Sistemas**
+- 📍 Universidad del Valle  - Fecha de Graduación: [Jul/2024]
+
+### 💻 Programación y Herramientas
+
+- **Java**
+- **Spring Boot**
+- **Python**
+- **SQL & MongoDB**
+- **Paquete Office**
+- **Linux**
+- **React**
+- **Patrones de Diseño & Arquitectura de Sistemas**
+### 🚀 Proyectos
+---
+---
+### 📫 Cómo alcanzarme:
+- **GitHub**: https://github.com/happodaikarin
+- **LinkedIn**: https://www.linkedin.com/in/rams%C3%A9s-de-jes%C3%BAs-hidalgo-guevara-96637a152/
+- **Correo Electrónico**: rambandan@gmail.com
+
+¡Gracias por visitar mi perfil y no dudes en conectarte conmigo!
+
