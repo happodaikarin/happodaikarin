@@ -2,7 +2,7 @@
 
 ## Bienvenido a mi perfil de GitHub!
 
-Soy  estudiante de Ingeniería en Sistemas y progrmador ocacional
+Soy  estudiante de Ingeniería en Sistemas y programador ocacional
 
 ### 🎓 Educación
 - 📚 **Ingeniería en Sistemas**
